@@ -103,7 +103,6 @@ https://youtu.be/--gfsEindSE
 ```
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/96937488/172113134-3b1cfab3-d0ce-43f2-aaa0-b6ce17742e18.gif)
 
-```
 
 ### 내가 맡은 부분
 - login,회원가입,마이페이지,주문조회
